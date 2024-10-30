@@ -13,7 +13,7 @@ import useAudioPlayer from "@/hooks/useAudioPlayer";
 
 import { GroundingFile, ToolResult } from "./types";
 
-import logo from "./assets/logo.svg";
+import logo from "./assets/edulogo.svg";
 
 function App() {
     const [isRecording, setIsRecording] = useState(false);
